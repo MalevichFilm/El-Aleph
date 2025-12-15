@@ -1,0 +1,5 @@
+{
+  "name": "Borges' Aleph Reader",
+  "description": "An interactive reader for Jorge Luis Borges' stories, including 'El Aleph', with on-demand translation to Russian powered by Gemini.",
+  "requestFramePermissions": []
+}
